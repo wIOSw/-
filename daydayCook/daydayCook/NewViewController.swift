@@ -1,5 +1,6 @@
+
 //
-//  ViewController.swift
+//  NewViewController.swift
 //  daydayCook
 //
 //  Created by qianfeng on 16/9/20.
@@ -8,21 +9,19 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class NewViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-        
-        
-        print("来呀，互相伤害呀！~~~~~~~")
+
+        // Do any additional setup after loading the view.
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
 
 
 }
-
