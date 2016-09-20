@@ -15,8 +15,14 @@ class NewViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        print("来啊，互相伤害啊")
     }
 
+    //别人写的
+    func compenet(str: String) {
+        print("有机会一起写代码")
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
